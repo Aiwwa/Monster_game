@@ -1,24 +1,3 @@
 # monster_game
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/71601381/127875122-3c064bc4-4150-4065-92cb-e161d5a61cac.gif)
